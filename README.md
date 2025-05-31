@@ -12,4 +12,7 @@ The objective of this project was to predict the results of the presidential ele
 
 # Analysis of Results
 ![cbffcc56-3526-447e-ae03-c0853ec61610](https://github.com/user-attachments/assets/7576ffa6-cf8c-4049-8147-d6770d9a3e12)
+
 Based on the sklearn module LogisticRegression, we were able to predict the presidential election results for the 2024 general election.
+
+Given that the results were impacted by the shifting boundaries of California Congressional District, the votes in San Bernardino, Orange, and Riverside counties were counted and the percentage differential was calculated
