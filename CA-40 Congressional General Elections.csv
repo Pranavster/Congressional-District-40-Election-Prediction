@@ -1,0 +1,45 @@
+Year,Election_Type,Candidate,Party,Percent,Votes,Disqualified/Withdrawn
+2022,General,Young Kim,Republican,56.8,"161,589",No
+2022,General,Asif Mahmood,Democrat,43.2,"122,722",No
+2022,Nonpartisan,Asif Mahmood,Democrat,40.9,"74,607",No
+2022,Nonpartisan,Young Kim,Republican,34.7,"63,346",No
+2022,Nonpartisan,Greg Raths,Republican,23.2,"42,404",No
+2022,Nonpartisan,Nicholas Taurus,Republican,1.2,"2,193",No
+2022,Nonpartisan,Hilaire Shioura,No Party Preference,N/A,N/A,Yes
+2020,General,Lucille Roybal-Allard,Democrat,72.7,"135,572",No
+2020,General,C. Antonio Delgado,Republican,27.3,"50,809",No
+2020,Nonpartisan,Lucille Roybal-Allard,Democrat,50.7,"38,837",No
+2020,Nonpartisan,C. Antonio Delgado,Republican,13.7,"10,467",No
+2020,Nonpartisan,David Sanchez,Democrat,13.4,"10,256",No
+2020,Nonpartisan,Anthony Felix Jr.,Democrat,12.4,"9,473",No
+2020,Nonpartisan,Rodolfo Cotes Barragan,Green,7.3,"5,578",No
+2020,Nonpartisan,Michael Graham Jr.,American Independent Party of California,2.6,"1,967",No
+2020,Nonpartisan,Orion Paige Metzger,Democrat,N/A,N/A,Yes
+2020,Nonpartisan,Juan Luis Rivera,Libertarian,N/A,N/A,Yes
+2018,General,Lucille Roybal-Allard,Democrat,77.3,"93,938",No
+2018,General,Rodolfo Cotes Barragan,Green,22.7,"27,511",No
+2018,Nonpartisan,Lucille Roybal-Allard,Democrat,80.3,"35,636",No
+2018,Nonpartisan,Rodolfo Cotes Barragan,Green,19.7,"8,471",No
+2016,General,Lucille Roybal-Allard,Democrat,71.4,"106,554",No
+2016,General,Roman Gabriel Gonzalez,Independent,28.6,"42,743",No
+2016,Primary,Lucille Roybal-Allard,Democrat,76.3,"60,691",No
+2016,Primary,Roman Gabriel Gonzalez,Independent,23.7,"18,844",No
+2014,General,Lucille Roybal-Allard,Democrat,61.2,"30,208",No
+2014,General,David Sanchez,Democrat,38.8,"19,171",No
+2012,General,Lucille Roybal-Allard,Democrat,58.9,"73,940",No
+2012,General,David Sanchez,Democrat,41.1,"51,613",No
+2010,General,Christina Avalos,Democrat,33.2,"59,400",No
+2010,General,Ed Royce,Republican,66.8,"119,455",No
+2008,General,Christina Avalos,Democrat,37.4,"86,772",No
+2008,General,Ed Royce,Republican,62.6,"144,923",No
+2006,General,Florice Orea Hoffman,Democrat,30.7,"46,418",No
+2006,General,Ed Royce,Republican,66.8,"100,995",No
+2006,General,Philip H. Inman,Libertarian,2.5,"3,876",No
+2004,General,J. Tilman Williams,Democrat,32,"69,684",No
+2004,General,Ed Royce,Republican,68,"147,617",No
+2002,General,Christina Avalos,Democrat,29.5,"40,265",No
+2002,General,Ed Royce,Republican,67.7,"92,422",No
+2002,General,Charles R. (Chick) McGlawn,Libertarian,2.8,"3,955",No
+2000,General,Jerry Lewis,Republican,79.9,"151,069",No
+2000,General,Jay Lindberg,Libertarian,10,"18,924",No
+2000,General,Frank N. Schmit,Natural Law,10.1,"19,029",No
