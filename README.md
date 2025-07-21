@@ -1,5 +1,5 @@
 # California-Congressional-District-40-Election-Prediction-Model
-Contains exploratory data analysis on congressional general elections in California Congressional District 40 and voter and presidential turnout prediction for 2024
+Contains exploratory data analysis on congressional general elections in California Congressional District 40 and voter and presidential turnout prediction for 2024.
 # Congressional District 40
 Congressional District 40, currently located in the San Bernardino, Riverside, and Orange counties, had approximately 754 thousand people with the median age of 42.4 and the median household income of $132,031 as of 2023. This district also has a 6.74% increase in poverty rate, and a $933,000 median property value. The largest industries in Congressional District 40 include healthcare & social assistance, with about 47,000 people, professional, scientific, and technical services, with about 45,800 people and manufacturing, with about 40,800 people.
 
@@ -15,7 +15,7 @@ The objective of this project was to predict the results of the presidential ele
 
 Based on the sklearn module LogisticRegression, we were able to predict the presidential election results for the 2024 general election.
 
-Given that the results were impacted by the shifting boundaries of California Congressional District, the votes in San Bernardino, Orange, and Riverside counties were counted and the percentage differential was calculated
+Given that the results were impacted by the shifting boundaries of California Congressional District, the votes in San Bernardino, Orange, and Riverside counties were counted and the percentage differential was calculated.
 
 | Party         |   Predicted Result |   Results for San Bernardino, Orange, and Riverside Counties |   Difference |
 |---------------|--------------------|--------------------------------------------------------------|--------------|
